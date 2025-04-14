@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Learning and exploring key cybersecurity concepts, including threat analysis, penetration testing, and security protocols.🌱 I’m currently learning<br>Data Engineering with Azure (specifically Azure Data Factory and pipeline management).<br>Web development frameworks and full-stack architecture (Node.js, Express, AngularJS).<br>💬 Ask me about<br>Full-stack web development projects, especially building scalable applications with MySQL, React, and Node.js.⚡ Fun fact<br>I'm passionate about both technology and creative arts
+🔭 I’m currently working on<br>Learning and exploring key cybersecurity concepts, including threat analysis, penetration testing, and security protocols.<br>🌱 I’m currently learning<br>Data Engineering with Azure (specifically Azure Data Factory and pipeline management).<br>Web development frameworks and full-stack architecture (Node.js, Express, AngularJS).<br>💬 Ask me about<br>Full-stack web development projects, especially building scalable applications with MySQL, React, and Node.js.<br>⚡ Fun fact<br>I'm passionate about both technology and creative arts
 
 
 ## 🌐 Socials:
